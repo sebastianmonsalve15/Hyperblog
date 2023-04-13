@@ -29,6 +29,11 @@ body{
     vertical-align: middle;
 }
 
+#espacio-imagen #equipo{
+    width: 500px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline{
     padding: 0 0 0 1em;
     font-weight: normal;
