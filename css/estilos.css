@@ -37,5 +37,10 @@ body{
 
 #post{
     background: rgb(216, 215, 215);
+}
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
     padding: 1em;
 }
